@@ -6,7 +6,7 @@ This repository contains test‑bench code for creating a **“video gate”**�
 
 Watch a short demo showcasing the video‑gate functionality here:
 
-::contentReference[oaicite:0]{index=0}
+https://www.youtube.com/shorts/dBwXZMA6RJU
 
 
 ## Features
