@@ -1,6 +1,7 @@
 # Video Gate Lab for PIC18F57Q43 Curiosity Nano
 
 This repository contains test‑bench code for creating a **“video gate”**—a video signal switcher—similar to the one demonstrated in the UGV project by MyTek. It’s written specifically for the PIC18F57Q43 Curiosity Nano development board and is intended as an experimental **lab tool**, not a commercially ready solution.
+The final version of the "video gate" will be used in the SAVO MAX boards for Atari 8-bit.
 
 ## 📺 Live Demo
 
